@@ -1,4 +1,4 @@
-package Person;
+package PersonHuck;
 
 public class Person 
 {
